@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Akihiro Motoki <motoki@da.jp.nec.com>
+Code-Review+2: Radomir Dopieralski <openstack@sheep.art.pl>
+Workflow+1: Radomir Dopieralski <openstack@sheep.art.pl>
+Submitted-by: Jenkins
+Submitted-at: Fri, 14 Nov 2014 10:08:24 +0000
+Reviewed-on: https://review.openstack.org/113517
+Project: stackforge/xstatic-jsencrypt
+Branch: refs/heads/master

@@ -1,0 +1,11 @@
+Code-Review+1: Thomas Goirand <thomas@goirand.fr>
+Code-Review+2: Diana Whitten <hurgleburgler@gmail.com>
+Code-Review+1: Brad Pokorny <brad_pokorny@symantec.com>
+Code-Review+2: Travis Tripp <travis.tripp@hpe.com>
+Workflow+1: Travis Tripp <travis.tripp@hpe.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Thu, 05 May 2016 03:55:09 +0000
+Reviewed-on: https://review.openstack.org/309062
+Project: openstack/xstatic-jsencrypt
+Branch: refs/heads/master

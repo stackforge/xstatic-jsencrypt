@@ -1,0 +1,9 @@
+Code-Review+1: Beth Elwell <e.r.elwell@gmail.com>
+Code-Review+2: Richard Jones <r1chardj0n3s@gmail.com>
+Workflow+1: Richard Jones <r1chardj0n3s@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 09 Nov 2016 04:45:13 +0000
+Reviewed-on: https://review.openstack.org/391453
+Project: openstack/xstatic-jsencrypt
+Branch: refs/heads/master
